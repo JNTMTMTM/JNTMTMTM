@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <a href="https://github.com/JNTMTMTM">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+JNTMTMTM;Full-Stack+Developer;System+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -33,9 +32,9 @@
 
 ### Frontend & GUI
 
-| CSS | SCSS | Vue | PySide6 | Qt |
-|-----|------|-----|---------|-----|
-| <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> | <img src="https://img.shields.io/badge/PySide6-41B883?style=for-the-badge&logo=qt&logoColor=white" /> | <img src="https://img.shields.io/badge/Qt-41B883?style=for-the-badge&logo=qt&logoColor=white" /> |
+| CSS | SCSS | Vue | React | Vite | PySide6 | Qt |
+|-----|------|-----|------|------|---------|-----|
+| <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> | <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> | <img src="https://img.shields.io/badge/PySide6-41B883?style=for-the-badge&logo=qt&logoColor=white" /> | <img src="https://img.shields.io/badge/Qt-41B883?style=for-the-badge&logo=qt&logoColor=white" /> |
 
 ### Backend & Database
 
