@@ -13,8 +13,8 @@
 
 > Welcome to our studio! We specialize in developing powerful system monitoring, protection, and optimization tools. Explore our official platforms below:
 
-[![Website](https://img.shields.io/badge/Website-www.shicthrs.com-00A1D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shicthrs.com)
-[![Docs](https://img.shields.io/badge/Documentation-docs.shicthrs-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.aegisspeed.shicthrs.com)
+[![Website](https://img.shields.io/badge/Website-www.shicthrs.com-00A1D6?style=for-the-badge&logo=google-chrome&logoColor=white)]
+[![Docs](https://img.shields.io/badge/Documentation-docs.shicthrs-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white)]
 
 </div>
 
