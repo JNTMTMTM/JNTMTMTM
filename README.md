@@ -5,11 +5,7 @@
   </a>
 </p>
 
----
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JNTMTMTM&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A1D6&height=120&section=footer"/>
 
