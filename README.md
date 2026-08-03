@@ -7,12 +7,6 @@
 
 ---
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNTMTMTM&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JNTMTMTM&theme=2077" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JNTMTMTM&theme=2077&utcOffset=8" />
-</div>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JNTMTMTM&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
